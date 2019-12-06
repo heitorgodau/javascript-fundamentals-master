@@ -42,7 +42,7 @@ const sortLetters = (arr) => {
 
 // ######################################### //
 
-// Using any array method and the function built in the previous question, make a loop that  print the elements of an array multiplied by 2.
+// Using any array method and the function built in the previous question, make a loop that print the elements of an array multiplied by 2.
 
 // code here
 
@@ -54,7 +54,7 @@ const sortLetters = (arr) => {
 
 // ######################################### //
 
-// Using any array method and the function built in the previous question, make a loop that make another array only with odd numbers.
+// Using any array method and the function built in the previous question, make a loop that return only the odd numbers.
 
 // code here
 
