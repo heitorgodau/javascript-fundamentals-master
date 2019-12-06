@@ -42,7 +42,7 @@ const arrEx6 = [2, 4, 6, 7, 9, 12];
 
 const arrEx7 = [1, 2, 3];
 
-const checkSum = arr => {
+const checkSum = (arr) => {
   // code here
 };
 
@@ -52,7 +52,7 @@ const checkSum = arr => {
 
 const arrEx8 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-const evenNumbers = arr => {
+const evenNumbers = (arr) => {
   // code here
 };
 
@@ -62,7 +62,7 @@ const evenNumbers = arr => {
 
 const arrEx9 = ['a', 'c', 'g', 'r', 'w', 'e', 's', 'l', 'z', 'q', 'b', 'd'];
 
-const sortLetters = arr => {
+const sortLetters = (arr) => {
   // code here
 };
 
