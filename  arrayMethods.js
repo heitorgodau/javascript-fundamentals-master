@@ -42,7 +42,19 @@ const sortLetters = (arr) => {
 
 // ######################################### //
 
-// Using FOR EACH and the function built in the previous question, make a loop that print the elements of an array multiplied by 2.
+// Using any array method and the function built in the previous question, make a loop that  print the elements of an array multiplied by 2.
+
+// code here
+
+// ######################################### //
+
+// Create a function that takes a number and returns true if the number is odd and false if the number is even
+
+// code here
+
+// ######################################### //
+
+// Using any array method and the function built in the previous question, make a loop that make another array only with odd numbers.
 
 // code here
 
