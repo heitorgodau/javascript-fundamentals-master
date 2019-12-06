@@ -1,26 +1,60 @@
 //! READ: http://learn.ironhack.com/#/learning_unit/8206
 
 /*
-FOR EXEMPLE
+EXAMPLE
   for(initiation; condition to keep loop; incrementer) {
     statement
   }
 */
 
-// print numbers 0 to 100
-/* code here */
+// Print numbers 0 to 100
+
+// code here
+
+// ######################################### //
+
+// Print only even numbers from 0 to 100
+
+// code here
+
+// ######################################### //
+
+// Print only odd numbers from 0 to 100
+
+// code here
+
+// ######################################### //
+
+// Print numbers 80 to 20
+
+// code here
+
+// ######################################### //
 
 
-// print only even numbers from 0 to 100
-/* code here */
+// Write an array called arrEx2 with length 3.
 
+// code here
 
-// print only odd numbers from 0 to 100
-/* code here */
+// ######################################### //
 
+// Write a loop using for structure that prints all positive numbers until 48 (including 48).
 
-// print numbers 80 to 20
-/* code here */
+// code here
+
+// ######################################### //
+
+// Write a loop using for structure that prints all negative numbers until -30 (excluding).
+
+// code here
+
+// ######################################### //
+
+// Write a loop using for structure that prints all numbers from 102 (including) to 32 (including) in steps of 2.
+
+// code here
+
+// ######################################### //
 
 
 const pets = ['dog', 'cat', 'bird', 'salamander', 'human', 'ape', 'alien', 'dinossaur'];
