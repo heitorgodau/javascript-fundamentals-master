@@ -1,5 +1,5 @@
 //*********************************** EXAMPLE ***********************************//
-// adds 2 to inputted number
+//! adds 2 to inputted number
 // ex: addTwo(5); -> 7
 // ex: addTwo(6); -> 8
 //*** ES5 ***//
@@ -22,7 +22,7 @@ const addTwo = number => number + 2;
 
 //*********************************** PRACTICE ***********************************//
 
-// adds the two inputted numbers together
+//! adds the two inputted numbers together
 // ex: add(5, 10); -> 15
 //*** ES5 ***//
 function add(num1, num2) {
@@ -32,7 +32,7 @@ function add(num1, num2) {
 const add = (num1,num2) => // write your code here
 
 //--------------------------------------------------------------------------------//
-// adds all three inputted numbers together
+//! adds all three inputted numbers together
 // ex: addd(1,2,3); -> 6
 // ex: addd(2,4,2); -> 8
 //*** ES5 ***//
@@ -43,7 +43,7 @@ function addd(value1, value2, value3) {
 const addd = (value1, value2, value3) => // write your code here
 
 //--------------------------------------------------------------------------------//
-// subtracts the second inputted number from the first inputted number
+//! subtracts the second inputted number from the first inputted number
 // ex: subtract(5, 10); -> -5
 //*** ES5 ***//
 function subtract(n1, n2) {
@@ -53,7 +53,7 @@ function subtract(n1, n2) {
 const subtract = (n1,n2) =>  // write your code here
 
 //--------------------------------------------------------------------------------//
-// multiplies the inputted number by 2
+//! multiplies the inputted number by 2
 // ex: multiplyByTwo(5); -> 10
 // ex: multiplyByTwo(6); -> 12
 //*** ES5 ***//
@@ -65,7 +65,7 @@ const multiplyByTwo = numero => // write your code here
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// multplies the two inputted numbers together
+//! multplies the two inputted numbers together
 // ex: multiply(1,2); -> 2
 // ex: multiply(2,2); -> 4
 function multiply(val1, val2) {
@@ -76,7 +76,7 @@ function multiply(val1, val2) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// multiplies all three inputted numbers together
+//! multiplies all three inputted numbers together
 // ex: multiplyy(1,2,3); -> 6
 // ex: multiplyy(2,2,3); -> 12
 function multiplyy(a, b, c) {
@@ -87,7 +87,7 @@ function multiplyy(a, b, c) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// returns the square of the inputted number
+//! returns the square of the inputted number
 // ex: square(5); -> 25
 function square(value) {
 
@@ -97,9 +97,9 @@ function square(value) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// determines if the number is odd
-// outputs true if the number is odd
-// outputs false if the number is even
+//! determines if the number is odd
+//! outputs true if the number is odd
+//! outputs false if the number is even
 // ex: isOdd(4); -> true
 // ex: isOdd(5); -> false
 function isOdd(num) {
@@ -110,9 +110,9 @@ function isOdd(num) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// determines if the number is negative
-// outputs true if the number is negative
-// outputs false if the number is zero or positive
+//! determines if the number is negative
+//! outputs true if the number is negative
+//! outputs false if the number is zero or positive
 // ex: isNegative(-1); -> true
 // ex: isNegative(1); -> false
 // ex: isNegative(0); -> false
@@ -124,7 +124,7 @@ function isNegative(num) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// returns the absolute value of the inputted number
+//! returns the absolute value of the inputted number
 // ex: positive(-1); -> 1
 // ex: positive(1); -> 1
 function positive(num) {
@@ -135,7 +135,7 @@ function positive(num) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// Returns boolean of whether argument is classified as a Number object
+//! Returns boolean of whether argument is classified as a Number object
 // isNumber(5); → true
 // isNumber('hi'); → false
 function isNumber(value) {
@@ -146,7 +146,7 @@ function isNumber(value) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// Returns boolean of whether argument is classified as an Array object
+//! Returns boolean of whether argument is classified as an Array object
 // isArray(5); → false
 // isArray([1,2,3]); → true
 function isArray(value) {
@@ -157,7 +157,7 @@ function isArray(value) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// Returns boolean of whether argument is classified as an Object
+//! Returns boolean of whether argument is classified as an Object
 // isObject(5); → false
 // isObject([1,2,3]); → false
 function isObject(value) {
@@ -168,7 +168,7 @@ function isObject(value) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// return boolean of whether argument is classified as null
+//! return boolean of whether argument is classified as null
 // isNull(null); -> true
 // isNull(5); -> false
 function isNull(value) {
@@ -179,8 +179,8 @@ function isNull(value) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// this function accepts an array of numbers
-// and returns an array of only the odd numbers
+//! this function accepts an array of numbers
+//! and returns an array of only the odd numbers
 // ex: returnOdds([1,2,3,4,5,6,7]); -> [1,3,5,7]
 function returnOdds(array) {
 
@@ -191,8 +191,8 @@ function returnOdds(array) {
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
 
-// this function accepts an array of numbers
-// and returns an array of only the even numbers
+//! this function accepts an array of numbers
+//! and returns an array of only the even numbers
 // ex: returnEvent([1,2,3,4,5,6,7]); -> [2,4,6]
 function returnEvens(array) {
 
@@ -202,7 +202,7 @@ function returnEvens(array) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// returns only the max element from the inputted array of numbers
+//! returns only the max element from the inputted array of numbers
 // ex: findMax([1,25,6,3]); -> 25
 function findMax(array) {
 
@@ -212,7 +212,7 @@ function findMax(array) {
 
 //--------------------------------------------------------------------------------//
 //*** ES5 ***//
-// remove leading and trailing whitespace or specified characters from string
+//! remove leading and trailing whitespace or specified characters from string
 // trim(' hello '); -> 'hello'
 function trim(string) {
 
