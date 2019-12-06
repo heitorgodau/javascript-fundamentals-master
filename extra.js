@@ -47,3 +47,23 @@ const checkSum = arr => {
 };
 
 // ######################################### //
+
+// 8. Given an array of numbers, write a function evenNumbers that returns a new array only with the even number of the original array.
+
+const arrEx8 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+const evenNumbers = arr => {
+  // code here
+};
+
+// ######################################### //
+
+// 9. Given an array of letters, write a function sortLetters that returns a new array of letters in alphabetical order.
+
+const arrEx9 = ['a', 'c', 'g', 'r', 'w', 'e', 's', 'l', 'z', 'q', 'b', 'd'];
+
+const sortLetters = arr => {
+  // code here
+};
+
+// ######################################### //
