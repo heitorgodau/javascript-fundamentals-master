@@ -1,6 +1,6 @@
 //! Given the array below, write a function add2 that will receive the array as an argument and will return a new array with all items of the original array added by 2.
 
-const arrEx6 = [2, 4, 6, 7, 9, 12];
+const arrEx1 = [2, 4, 6, 7, 9, 12];
 
 // code here
 
@@ -8,7 +8,7 @@ const arrEx6 = [2, 4, 6, 7, 9, 12];
 
 //! Given an array of numbers, write a function checkSum that returns the string 'even' if the sum of all values are even, otherwise return 'odd';
 
-const arrEx7 = [1, 2, 3];
+const arrEx2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
 
 const checkSum = (arr) => {
   // code here
@@ -18,7 +18,7 @@ const checkSum = (arr) => {
 
 //! Given an array of numbers, write a function evenNumbers that returns a new array only with the even numbers of the original array.
 
-const arrEx8 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const arrEx3 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 const evenNumbers = (arr) => {
   // code here
@@ -28,7 +28,7 @@ const evenNumbers = (arr) => {
 
 //! Given an array of letters, write a function sortLetters that returns a new array of letters in alphabetical order.
 
-const arrEx9 = ['a', 'c', 'g', 'r', 'w', 'e', 's', 'l', 'z', 'q', 'b', 'd'];
+const arrEx4 = ['a', 'c', 'g', 'r', 'w', 'e', 's', 'l', 'z', 'q', 'b', 'd'];
 
 const sortLetters = (arr) => {
   // code here
@@ -36,13 +36,25 @@ const sortLetters = (arr) => {
 
 // ######################################### //
 
-//! Make a function that takes a number and returns that number multiplied by 2.
+//! Make a function that takes a number and returns that number multiplied by 5.
 
 // code here
 
 // ######################################### //
 
-//! Using any array method and the function built in the previous question, make a loop that print the elements of an array multiplied by 2.
+//! Using any array method and the function built in the previous question, make a loop that print the elements of an array multiplied by 5.
+
+// code here
+
+// ######################################### //
+
+//! Make a function that takes a letter and returns it uppercase
+
+// code here
+
+// ######################################### //
+
+//! Using any array method and the function built in the previous question, make a loop that print the elements upper case of an array.
 
 // code here
 
