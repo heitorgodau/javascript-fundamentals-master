@@ -72,3 +72,9 @@ const sortLetters = (arr) => {
 
 // ######################################### //
 
+//! Using any array method, make a loop that return the result of multiplying all the elements.
+
+// code here
+
+// ######################################### //
+
